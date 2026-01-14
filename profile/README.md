@@ -1,8 +1,8 @@
 # WANDS HKUST
 
-Welcome to the WANDS (Wireless And Networked Distributed Sensing) research group at the Hong Kong University of Science and Technology (HKUST), led by Professor Mo Li from the Department of Computer Science and Engineering.
+Welcome to the WANDS (Wireless And Networked Distributed Sensing) research group at the Hong Kong University of Science and Technology (HKUST), led by [Professor Mo Li](https://home.cse.ust.hk/~lim/) from the Department of Computer Science and Engineering.
 
-Our group is dedicated to advancing the frontiers of pervasive sensing, networking, and computing. We explore innovative technologies, systems, and services that enable seamless instrumentation and intelligent interaction with the physical world. Through our work, we aim to foster deeper understanding, enhanced control, smarter communication, and increased intelligence in our connected environments.
+Our group advances pervasive sensing, networking, and computing. We develop new technologies and systems for seamless sensing and interaction with the physical world. Our goal is to enable smarter communication, improved control, and a deeper understanding of connected environments.
 
 **Research Areas:**
 - Low altitude economy
